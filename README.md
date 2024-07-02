@@ -8,6 +8,8 @@ ESLint
 
 GitLens
 
+Auto Close Tag
+
 Auto Rename Tag
 
 indent rainbow
